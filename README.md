@@ -32,7 +32,7 @@ No modo responsivo do navegador, conferir 375 × 812, 768 × 1024 e 1440 × 900:
 
 ## Publicação
 
-Publique todos os arquivos, incluindo a pasta `imagens`, em um repositório público no GitHub. Para usar GitHub Pages, selecione a branch principal e a pasta raiz nas configurações de Pages do repositório.
+Repositório público: https://github.com/math-giannotti18/agencia-criativa-web . Todos os arquivos, incluindo a pasta `imagens`, fazem parte da entrega. Para usar GitHub Pages, selecione a branch principal e a pasta raiz nas configurações de Pages do repositório.
 
 ## Verificação realizada
 
